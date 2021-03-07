@@ -10,7 +10,6 @@ import argparse
 import concurrent.futures
 import requests
 
-#url = 'http://dev.team.thm/script.php?page='
 url = None
 wordlist = None
 outfile = None
@@ -20,7 +19,6 @@ raw = False
 
 def send_payload(path):
 	response = requests.get(url+path)
-	#print(response.text)
 	return response
 
 def attack():
