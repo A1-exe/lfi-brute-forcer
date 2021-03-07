@@ -1,2 +1,2 @@
 # lfi-brute-forcer
- brute force LFI using python
+ brute force LFI using python3
