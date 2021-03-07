@@ -1,2 +1,2 @@
 # lfi-brute-forcer
- brute force LFI using python3
+ brute force local file inclusion using python3
